@@ -1,0 +1,94 @@
+.a
+{
+
+  background-image: url("https://i.imgur.com/oH6Mtts.jpg");
+  min-height:943px;
+  width:25%;
+}
+
+.bo
+{
+  background-image: url("https://i.imgur.com/yVhk93H.jpg");
+  min-height:943px;
+  width:25%;
+}
+
+.c
+{
+  background-image: url("https://i.imgur.com/k4aiKdG.jpg");
+  min-height:943px;
+  width:25%;
+}
+
+
+.d
+{
+  background-image: url("https://i.imgur.com/a8EAwcS.png");
+  min-height:943px;
+  width:25%;
+}
+
+/*
+.a:hover {
+
+width:40%;
+}
+.a:hover ~ .b {
+  width:20%;
+}
+.a:hover ~ .c {
+  width:20%;
+}
+.a:hover ~ .d {
+width:20%;
+
+}*/
+
+
+/*.b:hover {
+
+width:40%;
+}
+.b:hover ~ .a {
+  width:10%;
+}
+.b:hover ~ .c {
+  width:20%;
+}
+.b:hover ~ .d {
+width:20%;
+
+}
+
+
+
+.c:hover {
+
+width:40%;
+}
+.c:hover ~ .b {
+  width:20%;
+}
+.c:hover ~ .a {
+  width:20%;
+}
+.c:hover ~ .d {
+width:20%;
+
+}
+
+
+.d:hover {
+
+width:40%;
+}
+.d:hover ~ .b {
+  width:20%;
+}
+.d:hover ~ .c {
+  width:20%;
+}
+.d:hover ~ .a{
+width:20%;
+
+}*/
